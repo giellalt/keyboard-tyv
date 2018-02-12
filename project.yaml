@@ -2,11 +2,8 @@ internalName: tyv
 
 locales:
   en:
-    name: &bundleName "Tuvinian Keyboards"
-    description: "Mobile OS keyboards for the Tuvinian language from the Divvun group at UiT."
-  nb:
-    name: "Tuvinian tastatur"
-    description: "Mobiltastatur for Tuvinian fra Divvun-gruppa."
+    name: &bundleName "Tuvan Keyboards"
+    description: "Keyboards for the Tuvan language from the Divvun group at UiT."
 
 author: The Divvun Group, UiT Norgga árktalaš universitehta
 email: feedback@divvun.no
