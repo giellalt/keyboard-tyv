@@ -8,10 +8,10 @@
 |**Deadkey** | green   | orange       | pink                    | green                    |
 
 
-## Тыва дыл (macOS)
+# Тыва дыл (macOS)
 
   
 
-## Тыва дыл (Windows)
+# Тыва дыл (Windows)
 
   
